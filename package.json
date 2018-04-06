@@ -1,6 +1,6 @@
 {
   "name": "ignite-builtie-boilerplate",
-  "description": "Infinite Red's hot boilerplate for React Native.",
+  "description": "Ignite boilerplate used by Built.ie to build awesome React Native apps.",
   "license": "MIT",
   "repository": "builthq/ignite-builtie-boilerplate",
   "homepage": "https://github.com/builthq/ignite-builtie-boilerplate",
@@ -18,8 +18,8 @@
     "screenExamples.js"
   ],
   "author": {
-    "name": "Infinite Red",
-    "email": "npm@infinite.red",
+    "name": "Built.ie",
+    "email": "contact@built.ie",
     "url": "https://github.com/builthq/ignite-builtie-boilerplate"
   },
   "scripts": {
